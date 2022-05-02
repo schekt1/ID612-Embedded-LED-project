@@ -4,7 +4,8 @@
 1) Read humidity of your environment
 2) Read temperature of your environment
 3) Read temperature in both celsius and fahrenheit for your environment
-4) Run's test on given conditions
+4) Read light sensitivity in relation to sunlight exposure
+4) Run's test on given conditions such as temperature being above a certain level for growing cherry tomatoes
 5) Test resolves in clear inditication of result e.g. green for pass, red for fail
 6) Error checking provides an error message if test fails */
 
